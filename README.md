@@ -12,8 +12,8 @@ https://www.apress.com/gp/book/9781484254394
     dotnet add TheWaterSln/Water.Tests reference TheWaterSln/Water
 ##
 
-![image-1](https://github.com/ThompsonSamuel/TheWaterSln/blob/master/Screenshots/Capture1.PNG?raw=true)
+![image-1](https://github.com/ThompsonSamuel/WaterSln/blob/master/Screenshots/Capture1.PNG?raw=true)
 
-![image-2](https://github.com/ThompsonSamuel/TheWaterSln/blob/master/Screenshots/Capture2.PNG?raw=true)
+![image-2](https://github.com/ThompsonSamuel/WaterSln/blob/master/Screenshots/Capture2.PNG?raw=true)
 
-![image-3](https://github.com/ThompsonSamuel/TheWaterSln/blob/master/Screenshots/Capture3.PNG?raw=true)
+![image-3](https://github.com/ThompsonSamuel/WaterSln/blob/master/Screenshots/Capture3.PNG?raw=true)
