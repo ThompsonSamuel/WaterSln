@@ -23,9 +23,10 @@ namespace Water
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
-            services.AddDbContext<StoreDbContext>(opts => {
+            services.AddDbContext<StoreDbContext>(opts => 
+            {
                 opts.UseSqlServer(
-                Configuration["ConnectionStrings:SportsStoreConnection"]);
+                Configuration["ConnectionStrings:WaterConnection"]);
             });
             services.AddScoped<IStoreRepository, EFStoreRepository>();
         }
@@ -35,7 +36,8 @@ namespace Water
             app.UseStatusCodePages();
             app.UseStaticFiles();
             app.UseRouting();
-            app.UseEndpoints(endpoints => {
+            app.UseEndpoints(endpoints => 
+            {
                 endpoints.MapControllerRoute("pagination",
                     "Products/Page{productPage}",
                     new { Controller = "Home", action = "Index" });
