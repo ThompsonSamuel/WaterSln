@@ -11,9 +11,12 @@ https://www.apress.com/gp/book/9781484254394
     dotnet sln TheWaterSln add TheWaterSln/Water.Tests 
     dotnet add TheWaterSln/Water.Tests reference TheWaterSln/Water
 ##
-
+### Chapter 7
 ![image-1](https://github.com/ThompsonSamuel/WaterSln/blob/master/Screenshots/Capture1.PNG?raw=true)
 
 ![image-2](https://github.com/ThompsonSamuel/WaterSln/blob/master/Screenshots/Capture2.PNG?raw=true)
 
 ![image-3](https://github.com/ThompsonSamuel/WaterSln/blob/master/Screenshots/Capture3.PNG?raw=true)
+
+### Chapter 8
+![image-4](https://github.com/ThompsonSamuel/WaterSln/blob/master/Screenshots/Chapter%208.PNG?raw=true)
