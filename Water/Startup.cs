@@ -20,6 +20,7 @@ namespace Water
             Configuration = config;
         }
         private IConfiguration Configuration { get; set; }
+
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
@@ -29,12 +30,16 @@ namespace Water
                 Configuration["ConnectionStrings:WaterConnection"]);
             });
             services.AddScoped<IStoreRepository, EFStoreRepository>();
+            services.AddRazorPages();
+            services.AddDistributedMemoryCache();
+            services.AddSession();
         }
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             app.UseDeveloperExceptionPage();
             app.UseStatusCodePages();
             app.UseStaticFiles();
+            app.UseSession();
             app.UseRouting();
             app.UseEndpoints(endpoints => 
             {
@@ -52,6 +57,7 @@ namespace Water
                     "Products/Page{productPage}",
                     new { Controller = "Home", action = "Index", productPage = 1 });
                 endpoints.MapDefaultControllerRoute();
+                endpoints.MapRazorPages();
             });
             SeedData.EnsurePopulated(app);
         }
