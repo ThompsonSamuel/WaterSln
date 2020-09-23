@@ -3,9 +3,9 @@ This is an in-class student project based on Adam Freeman's book PRO ASP.NET Cor
 https://www.apress.com/gp/book/9781484254394
 
 ## ScreenShots
-1.[Chapter 7](#Chapter 7)
-2.[Chapter 8](#Chapter 8)
-3.[Chapter 9](#Chapter 9)
+1. [Chapter 7](#Chapter 7)
+2. [Chapter 8](#Chapter 8)
+3. [Chapter 9](#Chapter 9)
 
 ## Create Solution
     dotnet new globaljson --sdk-version 3.1.101 --output TheWaterSln/Water
