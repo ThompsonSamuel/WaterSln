@@ -11,14 +11,18 @@ https://www.apress.com/gp/book/9781484254394
     dotnet sln TheWaterSln add TheWaterSln/Water.Tests 
     dotnet add TheWaterSln/Water.Tests reference TheWaterSln/Water
 ##
-### Chapter 7
+## Chapter 7
 ![image-1](https://github.com/ThompsonSamuel/WaterSln/blob/master/Screenshots/Capture1.PNG?raw=true)
-
 ![image-2](https://github.com/ThompsonSamuel/WaterSln/blob/master/Screenshots/Capture2.PNG?raw=true)
-
 ![image-3](https://github.com/ThompsonSamuel/WaterSln/blob/master/Screenshots/Capture3.PNG?raw=true)
 
-### Chapter 8
+## Chapter 8
 ![image-4](https://github.com/ThompsonSamuel/WaterSln/blob/master/Screenshots/Capture%205.PNG?raw=true)
 ![image-4](https://github.com/ThompsonSamuel/WaterSln/blob/master/Screenshots/Capture%206.PNG?raw=true)
 ![image-4](https://github.com/ThompsonSamuel/WaterSln/blob/master/Screenshots/Capture7.PNG?raw=true)
+
+## Chapter 9
+![9-4](https://github.com/ThompsonSamuel/WaterSln/blob/master/Screenshots/9-4.PNG?raw=true)
+![9-5](https://github.com/ThompsonSamuel/WaterSln/blob/master/Screenshots/9-5.PNG?raw=true)
+![9-6](https://github.com/ThompsonSamuel/WaterSln/blob/master/Screenshots/9-6.PNG?raw=true)
+![9-Tests](https://github.com/ThompsonSamuel/WaterSln/blob/master/Screenshots/Test%20-%209.PNG?raw=true)
