@@ -19,4 +19,6 @@ https://www.apress.com/gp/book/9781484254394
 ![image-3](https://github.com/ThompsonSamuel/WaterSln/blob/master/Screenshots/Capture3.PNG?raw=true)
 
 ### Chapter 8
-![image-4](https://github.com/ThompsonSamuel/WaterSln/blob/master/Screenshots/Chapter%208.PNG?raw=true)
+![image-4](https://github.com/ThompsonSamuel/WaterSln/blob/master/Screenshots/Capture%205.PNG?raw=true)
+![image-4](https://github.com/ThompsonSamuel/WaterSln/blob/master/Screenshots/Capture%206.PNG?raw=true)
+![image-4](https://github.com/ThompsonSamuel/WaterSln/blob/master/Screenshots/Capture7.PNG?raw=true)
