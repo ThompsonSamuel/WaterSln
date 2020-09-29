@@ -6,6 +6,7 @@ https://www.apress.com/gp/book/9781484254394
 1. [Chapter 7](#Chapter-7)
 2. [Chapter 8](#Chapter-8)
 3. [Chapter 9](#Chapter-9)
+4. [Chapter 10](#Chatper-10)
 
 ## Create Solution
     dotnet new globaljson --sdk-version 3.1.101 --output TheWaterSln/Water
@@ -38,3 +39,8 @@ https://www.apress.com/gp/book/9781484254394
 ![9-5](https://github.com/ThompsonSamuel/WaterSln/blob/master/Screenshots/9-5.PNG?raw=true)
 ![9-6](https://github.com/ThompsonSamuel/WaterSln/blob/master/Screenshots/9-6.PNG?raw=true)
 ![9-Tests](https://github.com/ThompsonSamuel/WaterSln/blob/master/Screenshots/Test%20-%209.PNG?raw=true)
+
+<a name="Chapter-10"/>
+
+## Chapter 10
+![10-1](https://github.com/ThompsonSamuel/WaterSln/blob/master/Screenshots/10-1.PNG?raw=true)
