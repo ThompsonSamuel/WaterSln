@@ -6,7 +6,7 @@ https://www.apress.com/gp/book/9781484254394
 1. [Chapter 7](#Chapter-7)
 2. [Chapter 8](#Chapter-8)
 3. [Chapter 9](#Chapter-9)
-4. [Chapter 10](#Chatper-10)
+4. [Chapter 10](#Chapter-10)
 
 ## Create Solution
     dotnet new globaljson --sdk-version 3.1.101 --output TheWaterSln/Water
